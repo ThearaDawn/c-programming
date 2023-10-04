@@ -136,3 +136,19 @@ while(condition_expression)
 
     break: exis from a loop or switch case statement
     continue: not execute statement 
+
+
+# Day 13: Function
+
+    A function is a block of code that performs some operation.
+    -
+    
+    returnType funcName() {
+        func_statement
+        return;
+    }
+    
+    returnType funcName(type param) {
+        func_statement
+        return;
+    }
