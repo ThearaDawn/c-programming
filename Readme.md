@@ -152,3 +152,23 @@ while(condition_expression)
         func_statement
         return;
     }
+
+# Day 14: Variable Scope
+
+    - Local variable (Any variables declared inside a function)
+    - Local vairable start when function start
+    - Globle variable (Any variables declared outside a function)
+    - Global variable start when program start
+
+    pros:
+        local varirable:
+            - easy to modify
+            - memory (function end -> clear memory)
+        global varaible:
+            - reused data
+    cons:
+        local varirable:
+            - can't reused
+        global varaible:
+            - store large data in memory
+            - modify can be affective to other function ...
