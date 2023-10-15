@@ -185,3 +185,16 @@ while(condition_expression)
         Array index always start at 0
         ex: int arrayNames[3] = {[0]=4, [1]=8, [2]=12};
 
+# Day 16: Structures
+
+    In C programming, structure is a collection of variables under a single name.
+
+    ### Structures
+    struct structureName {
+        dataType member1;
+        dataType member2;
+        ...
+    };
+
+    #include <string.h>
+    strcpy() function copies the content of a string to another. 
