@@ -172,3 +172,16 @@ while(condition_expression)
         global varaible:
             - store large data in memory
             - modify can be affective to other function ...
+
+# Day 15: Array
+
+    Array is a variable that can store multiple values.
+    int a, b, c;
+
+    ### Defining an Array
+        int arrayNames[3][][];
+    
+    ### Indexing Array Elements
+        Array index always start at 0
+        ex: int arrayNames[3] = {[0]=4, [1]=8, [2]=12};
+
