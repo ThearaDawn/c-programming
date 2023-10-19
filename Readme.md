@@ -197,4 +197,23 @@ while(condition_expression)
     };
 
     #include <string.h>
-    strcpy() function copies the content of a string to another. 
+    strcpy() function copies the content of a string to another.
+
+# Day 17: Pointers
+
+    Pointers are special variables that are used to store addresses rather than values.
+    
+    ex: int arr[] = {1,2};
+    [0]
+
+    ### Address in C
+    (&) we can get the address of a variable.
+    example: &variableName
+
+    ### Pointer
+    (*) we can get the content of a memory address stored in a pointer.
+    example: *ptr
+
+
+
+    
