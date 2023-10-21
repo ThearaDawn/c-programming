@@ -97,6 +97,7 @@ Customer:
     .
     .
 
+```c
 for(init_expression; loop_condition; loop_expression) {
 
 }          
@@ -113,14 +114,15 @@ do {
     //coding 
 }
 while(condition_expression)
-
+```
 
 # Day 10: Condition
     - if, else if, else statements and the conditional operator.
 
 # Day 11: Switch statement
 
-    switch(expression) {
+```c
+ switch(expression) {
         case value:
             program;
             break;
@@ -131,6 +133,8 @@ while(condition_expression)
             program;
             break;    
     }
+```
+   
 
 # Day 12: Break and Continue
 
@@ -215,5 +219,6 @@ while(condition_expression)
     example: *ptr
 
 
+# Day 18: String
 
     
