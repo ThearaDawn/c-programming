@@ -221,4 +221,11 @@ while(condition_expression)
 
 # Day 18: String
 
-    
+    In C programming, a string is a sequence of characters terminated with a null character \0. 
+
+# Day 19: Input and Output (I/O)
+
+    Output:
+        ... char, int, float ...
+    Input:
+        ... char, int ...
