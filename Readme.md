@@ -229,3 +229,10 @@ while(condition_expression)
         ... char, int, float ...
     Input:
         ... char, int ...
+
+# Day 20: Exercise "Calculator"
+
+    - I/O
+    - Operators
+    - Switch Case
+    - Function        
